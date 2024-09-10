@@ -267,8 +267,8 @@ DeclareGlobalFunction("InstallNoncommutativeMonomialOrdering");
 ##        Arg="&lt;NoncommutativeMonomialOrdering>"/>
 ##
 ##  <Description>
-##  Given a noncommutative monomial ordering, <C>OrderingLtFunctionListRep</C>
-##  and <C>OrderingLtFunctionListRep</C>
+##  Given a noncommutative monomial ordering, 
+##  <C>OrderingLtFunctionListRep</C> and <C>OrderingGtFunctionListRep</C>
 ##  return functions which compare the `list' representations
 ##  (NP representations) of two
 ##  monomials from the ordering's associated parent algebra.
